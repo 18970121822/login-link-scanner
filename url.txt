@@ -1,0 +1,20 @@
+# 常用公开网站（测基础功能）
+https://www.baidu.com
+https://www.zhihu.com
+https://www.bilibili.com
+https://www.163.com
+https://example.com
+
+# 专门的测试靶场（测登录链接/服务器信息）
+https://testphp.vulnweb.com
+https://demo.testfire.net
+https://the-internet.herokuapp.com
+https://httpbin.org
+https://jsonplaceholder.typicode.com
+
+# 轻量测试站（测超时/重试）
+https://coffee-cart.netlify.app
+https://brokencrystals.com
+https://dummyjson.com
+https://reqres.in
+https://httpstat.us/200
